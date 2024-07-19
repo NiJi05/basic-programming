@@ -1,11 +1,11 @@
 const firstName:string ='กิตติพงศ์ แซ่ถัง'
 let y: number = 10
 y = 20
-let ต้องการกลับบ้าน: boolean = true
+let goHome: boolean = true
 
 console.log(firstName)
 console.log(y)
-console.log(ต้องการกลับบ้าน)
+console.log(goHome)
  
 const a: number = 28
 const b: number = 50
