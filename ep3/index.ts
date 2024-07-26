@@ -58,4 +58,4 @@ function go(age: number, money: number, together: number) {
     }
 }
 
-go( 16, 70000, 500000)
+go( 17, 70000, 500000)
