@@ -49,3 +49,13 @@ function search(gender: string, high: number, heavy: number) {
 } 
 
 search('man', 170, 60)
+
+function go(age: number, money: number, together: number) {
+    if (age > 16 && money < 70000 && together < 500000) {
+        console.log('รับเงิน 100000 บาท')
+    } else {
+        console.log('อด')    
+    }
+}
+
+go( 16, 70000, 500000)
