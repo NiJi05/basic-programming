@@ -2,19 +2,19 @@ function helloWorld() {
     console.log("สวัดดี")
 }
 
-helloWorld() // ไม่มี input ไม่มี output
+helloWorld() // ไม่มี input ไม่มี output //
 
 function helloName(name: string) {
     console.log(name)
 }
 
-helloName('Rung') // มี input ไม่มี output
+helloName('Rung') // มี input ไม่มี output //
 
 function getPi() {
     return 3.14
 }
 
-console.log(getPi()) // ไม่มี input ไม่มี output
+console.log(getPi()) // ไม่มี input ไม่มี output //
 
 
 

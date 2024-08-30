@@ -117,7 +117,7 @@ const str: string = 'อยากกลับบ้าน'
 console.log(str.indexOf("ย"))
 
 
-const dik: string = 'จีบเธอไม่ได้ ก็เลยจีบแม่เธอแทน'
+const dik: string = 'จีบเธอไม่ได้ ก็เลยจีบแม่เธอแทน'    
 
 console.log(dik.includes('จีบ'))
 
